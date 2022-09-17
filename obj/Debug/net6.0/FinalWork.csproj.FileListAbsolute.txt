@@ -1,0 +1,15 @@
+/Users/elenakonovalcik/Desktop/HomeWork_final/FinalWork/bin/Debug/net6.0/FinalWork
+/Users/elenakonovalcik/Desktop/HomeWork_final/FinalWork/bin/Debug/net6.0/FinalWork.deps.json
+/Users/elenakonovalcik/Desktop/HomeWork_final/FinalWork/bin/Debug/net6.0/FinalWork.runtimeconfig.json
+/Users/elenakonovalcik/Desktop/HomeWork_final/FinalWork/bin/Debug/net6.0/FinalWork.dll
+/Users/elenakonovalcik/Desktop/HomeWork_final/FinalWork/bin/Debug/net6.0/ref/FinalWork.dll
+/Users/elenakonovalcik/Desktop/HomeWork_final/FinalWork/bin/Debug/net6.0/FinalWork.pdb
+/Users/elenakonovalcik/Desktop/HomeWork_final/FinalWork/obj/Debug/net6.0/FinalWork.csproj.AssemblyReference.cache
+/Users/elenakonovalcik/Desktop/HomeWork_final/FinalWork/obj/Debug/net6.0/FinalWork.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elenakonovalcik/Desktop/HomeWork_final/FinalWork/obj/Debug/net6.0/FinalWork.AssemblyInfoInputs.cache
+/Users/elenakonovalcik/Desktop/HomeWork_final/FinalWork/obj/Debug/net6.0/FinalWork.AssemblyInfo.cs
+/Users/elenakonovalcik/Desktop/HomeWork_final/FinalWork/obj/Debug/net6.0/FinalWork.csproj.CoreCompileInputs.cache
+/Users/elenakonovalcik/Desktop/HomeWork_final/FinalWork/obj/Debug/net6.0/FinalWork.dll
+/Users/elenakonovalcik/Desktop/HomeWork_final/FinalWork/obj/Debug/net6.0/ref/FinalWork.dll
+/Users/elenakonovalcik/Desktop/HomeWork_final/FinalWork/obj/Debug/net6.0/FinalWork.pdb
+/Users/elenakonovalcik/Desktop/HomeWork_final/FinalWork/obj/Debug/net6.0/FinalWork.genruntimeconfig.cache
